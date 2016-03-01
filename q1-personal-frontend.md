@@ -48,7 +48,9 @@
 
   mm: Michael Malotte
 
-  nr: Nathan Reginato
+  * Nathan Reginato
+    * [Set](nathanreginato.com)
+    * [Codebase](https://github.com/NathanReginato/Set)
 
   nm: Nicholas MacIntyre
 
