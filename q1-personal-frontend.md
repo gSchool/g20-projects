@@ -52,6 +52,8 @@
 
   sl: Seth Lytton
 
-  sw: Summer Wollin
+  *Summer Wollin
+    * [space invaders](https://spaceinvadersjs.firebaseapp.com/)
+    * [Codebase](https://github.com/summerwollin/spaceInvadersProject)
 
   wf: William Fuger
