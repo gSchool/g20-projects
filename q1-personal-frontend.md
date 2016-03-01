@@ -20,10 +20,6 @@
 
   cm: Courtney Morrissey
 
-  ds: Daniel Stewart
-    * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
-    * [Codebase](https://github.com/d-stew/personal-project-q1)
-
   hf: Harrison Fischberg
 
   jf: James Freeman
