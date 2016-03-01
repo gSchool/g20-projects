@@ -16,10 +16,12 @@
 
   cb: Conrad Bailey
 
-  ch: Cooper Heinrichs
+  * Cooper Heinrichs
+    * Link coming soon!
+    * [Codebase](https://github.com/cheinrichs/carContact)
 
   cm: Courtney Morrissey
-  
+
   * Daniel Stewart
     * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
     * [Codebase](https://github.com/d-stew/personal-project-q1)
@@ -49,7 +51,7 @@
   nm: Nicholas MacIntyre
 
   * Philip Skaggs
-    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/) 
+    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
     * [Codebase](https://github.com/artnoisenik/dolphin-kiss.github.io)
 
   sg: San Ibrahim Guyer
