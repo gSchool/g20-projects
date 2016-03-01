@@ -46,7 +46,9 @@
 
   nm: Nicholas MacIntyre
 
-  ps: Philip Skaggs
+  * Philip Skaggs
+    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/) 
+    * [Codebase](https://github.com/artnoisenik/dolphin-kiss.github.io)
 
   sg: San Ibrahim Guyer
 
