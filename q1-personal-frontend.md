@@ -6,8 +6,10 @@
 
   bn: Blake Netzeband
 
-  bb: Bradley Butterfield
-
+  * Bradley Butterfield
+    * [pick-A-resort](http://butters5789.github.io/pickaresort.github.io/)
+    * [Codebase](https://github.com/butters5789/pickaresort.github.io)
+    
   ba: Bud Aminof
 
   ck: Coleman Kelleghan
