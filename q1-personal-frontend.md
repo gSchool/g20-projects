@@ -16,7 +16,9 @@
 
   cb: Conrad Bailey
 
-  ch: Cooper Heinrichs
+  * Cooper Heinrichs
+    * Link coming soon!
+    * [Codebase](https://github.com/cheinrichs/carContact)
 
   cm: Courtney Morrissey
 
