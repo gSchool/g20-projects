@@ -19,12 +19,14 @@
   ch: Cooper Heinrichs
 
   cm: Courtney Morrissey
-  
+
   * Daniel Stewart
     * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
     * [Codebase](https://github.com/d-stew/personal-project-q1)
 
   hf: Harrison Fischberg
+    *[ShapeShift Bitcoin Platform](https://shape.firebaseapp.com/)
+    *[CodeBase](https://github.com/hrfischberg/ShapeShifts)
 
   jf: James Freeman
 
@@ -49,7 +51,7 @@
   nm: Nicholas MacIntyre
 
   * Philip Skaggs
-    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/) 
+    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
     * [Codebase](https://github.com/artnoisenik/dolphin-kiss.github.io)
 
   sg: San Ibrahim Guyer
