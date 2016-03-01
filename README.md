@@ -5,10 +5,12 @@
 ### How to update your project's URL
 
 * Fork, clone
-* Find your name and edit ONLY THAT LINE with your URL like this:
+* Find your name and edit that line like follows:
 
   ```md
-  * Your name: [name of project](url)
+  * Your name
+    * [name of project](url)
+    * [Codebase](github repo url)
   ```
 
 * Commit, push, and submit a pull request
