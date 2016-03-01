@@ -49,7 +49,7 @@
   mm: Michael Malotte
 
   * Nathan Reginato
-    * [Set](nathanreginato.com)
+    * [Set](http://myappsetgame.s3-website-us-west-2.amazonaws.com/)
     * [Codebase](https://github.com/NathanReginato/Set)
 
   nm: Nicholas MacIntyre
