@@ -45,6 +45,8 @@
   nm: Nicholas MacIntyre
 
   ps: Philip Skaggs
+  Dolphin Kiss (no URL yet)
+  https://github.com/artnoisenik/dolphin-kiss
 
   sg: San Ibrahim Guyer
 
