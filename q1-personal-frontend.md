@@ -19,7 +19,7 @@
   ch: Cooper Heinrichs
 
   cm: Courtney Morrissey
-  
+
   * Daniel Stewart
     * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
     * [Codebase](https://github.com/d-stew/personal-project-q1)
@@ -32,7 +32,9 @@
 
   ld: Lincoln Dennis
 
-  mp: Madeline Pickering
+  * Madeline Pickering
+    * [FuelMapper](http://madelinepick.github.io/fuelmapper.github.io/)
+    * [Codebase](https://github.com/madelinepick/fuelmapper.github.io)
 
   mb: Matthew Bouchard
 
@@ -49,7 +51,7 @@
   nm: Nicholas MacIntyre
 
   * Philip Skaggs
-    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/) 
+    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
     * [Codebase](https://github.com/artnoisenik/dolphin-kiss.github.io)
 
   sg: San Ibrahim Guyer
