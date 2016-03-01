@@ -9,7 +9,7 @@
   * Bradley Butterfield
     * [pick-A-resort](http://butters5789.github.io/pickaresort.github.io/)
     * [Codebase](https://github.com/butters5789/pickaresort.github.io)
-    
+
   ba: Bud Aminof
 
   ck: Coleman Kelleghan
@@ -19,8 +19,10 @@
   ch: Cooper Heinrichs
 
   cm: Courtney Morrissey
-
-  ds: Daniel Stewart
+  
+  * Daniel Stewart
+    * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
+    * [Codebase](https://github.com/d-stew/personal-project-q1)
 
   hf: Harrison Fischberg
 
