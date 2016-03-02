@@ -9,7 +9,7 @@
   * Bradley Butterfield
     * [pick-A-resort](http://butters5789.github.io/pickaresort.github.io/)
     * [Codebase](https://github.com/butters5789/pickaresort.github.io)
-    
+
   ba: Bud Aminof
 
   ck: Coleman Kelleghan
@@ -47,12 +47,14 @@
   nm: Nicholas MacIntyre
 
   * Philip Skaggs
-    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/) 
+    * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
     * [Codebase](https://github.com/artnoisenik/dolphin-kiss.github.io)
 
   sg: San Ibrahim Guyer
 
-  sl: Seth Lytton
+  * Seth Lytton
+    * [Meal Magnet](https://meal-magnet.firebaseapp.com/)
+    * [Codebase](https://github.com/slytton/meal-planner)
 
   * Summer Wollin
     * [space invaders](https://spaceinvadersjs.firebaseapp.com/)
