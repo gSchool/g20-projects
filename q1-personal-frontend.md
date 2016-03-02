@@ -4,7 +4,9 @@
 
   as: Anthony Simpson
 
-  bn: Blake Netzeband
+  Blake Netzeband
+    * [State of Solar](http://blakeface.github.io/state-of-solar.github.io/)
+    * [Codebase](https://github.com/blakeface/state-of-solar.github.io)
 
   * Bradley Butterfield
     * [pick-A-resort](http://pick-a-resort.herokuapp.com/)
