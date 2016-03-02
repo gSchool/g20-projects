@@ -14,7 +14,9 @@
 
   ba: Bud Aminof
 
-  ck: Coleman Kelleghan
+  * Coleman Kelleghan
+    * [Geoball](http://kelleghan1.github.io/mySite.github.io/)
+    * [Codebase](https://github.com/kelleghan1/g20-projects)
 
   * Conrad Bailey
       * coming soon
