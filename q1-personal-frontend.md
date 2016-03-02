@@ -1,6 +1,6 @@
 # Q1 Personal
 
-*  at: Alan Taylor
+  * Alan Taylor
     * [Reincarnation] (https://reincarnation.herokuapp.com/)
     * [Codebase] (https://github.com/alancarltaylor/reincarnation)
   as: Anthony Simpson
