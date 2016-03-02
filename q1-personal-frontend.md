@@ -64,7 +64,9 @@
     * [ Cash Register - Inventory Manager ]( https://project-test.herokuapp.com )
     * [ Code ]( https://github.com/MickeyJ/personal-frontend-project/tree/refactor1 )
 
-  nr: Nathan Reginato
+  * Nathan Reginato
+    * [Set](http://myappsetgame.s3-website-us-west-2.amazonaws.com/)
+    * [Codebase](https://github.com/NathanReginato/Set)
 
   * Nicholas MacIntyre
     * [Asteroids] (https://astroidz.firebaseapp.com/)
