@@ -4,12 +4,14 @@
 
   as: Anthony Simpson
 
-  bn: Blake Netzeband
+  * bn: Blake Netzeband
+    * [State of Solar](not yet hosted)
+    * [Codebase](https://github.com/blakeface/state-of-solar)
 
   * Bradley Butterfield
     * [pick-A-resort](http://butters5789.github.io/pickaresort.github.io/)
     * [Codebase](https://github.com/butters5789/pickaresort.github.io)
-    
+
   ba: Bud Aminof
 
   ck: Coleman Kelleghan
