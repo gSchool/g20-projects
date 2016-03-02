@@ -20,8 +20,9 @@
     * Link coming soon!
     * [Codebase](https://github.com/cheinrichs/carContact)
 
-  cm: Courtney Morrissey
-    * https://github.com/courtm187/q1project_hikeGenerator/tree/master
+  * Courtney Morrissey
+    * Link coming soon!
+    * [Codebase](https://github.com/courtm187/q1project_hikeGenerator)
 
   * Daniel Stewart
     * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
