@@ -39,7 +39,10 @@
 
   jf: James Freeman
 
-  jg: Jason Goldfarb
+  * Jason Goldfarb
+    * [Simon](on it's way)
+    * [Codebase](https://github.com/jkgold/personal-project.github.io/tree/gh-pages)
+  
 
   * Lincoln Dennis
     * [This Week In Marvel History](http://jlincolndennis.github.io/marvel-history.github.io/)
