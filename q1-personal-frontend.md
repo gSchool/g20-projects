@@ -14,7 +14,7 @@
 
   ck: Coleman Kelleghan
   [Geoball](http://kelleghan1.github.io/mySite.github.io/)
-  [Codebase]https://github.com/kelleghan1/g20-projects
+  [Codebase](https://github.com/kelleghan1/g20-projects)
 
   cb: Conrad Bailey
 
