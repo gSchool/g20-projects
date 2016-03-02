@@ -42,7 +42,9 @@
 
   ms: Max Sturges
 
-  mf: Michael Ferger
+  * Michael Ferger
+    * [Space Bounce](http://mferger.github.io/MichaelFerger.github.io/)
+    * [Codebase](https://github.com/MFerger/MichaelFerger.github.io)
 
   mh: Michael Homolak
 
