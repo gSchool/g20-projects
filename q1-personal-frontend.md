@@ -51,6 +51,8 @@
   mh: Michael Homolak
 
   mm: Michael Malotte
+    *[ N/A ](  )
+    *[ Code ]( https://github.com/MickeyJ/personal-frontend-project/tree/refactor1 )
 
   nr: Nathan Reginato
 
