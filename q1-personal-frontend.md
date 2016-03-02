@@ -14,8 +14,9 @@
 
   ck: Coleman Kelleghan
 
-  cb: Conrad Bailey
-
+  * cb: Conrad Bailey
+      * coming soon
+      * [Codebase](https://github.com/CGBailey/realSheet.git)
   * Cooper Heinrichs
     * Link coming soon!
     * [Codebase](https://github.com/cheinrichs/carContact)
