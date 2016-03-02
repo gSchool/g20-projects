@@ -24,9 +24,9 @@
     * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
     * [Codebase](https://github.com/d-stew/personal-project-q1)
 
-  hf: Harrison Fischberg
-    *[ShapeShift Bitcoin Platform](https://shape.firebaseapp.com/)
-    *[CodeBase](https://github.com/hrfischberg/ShapeShifts)
+  * Harrison Fischberg
+    * [ShapeShift Bitcoin Platform](https://shape.firebaseapp.com/)
+    * [CodeBase](https://github.com/hrfischberg/ShapeShifts)
 
   jf: James Freeman
 
