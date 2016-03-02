@@ -38,7 +38,7 @@
 
   mp: Madeline Pickering
 
-*  mb: Matthew Bouchard
+*  Matthew Bouchard
   * [Local Sounds -Search and Sample musicians Playing in your area](https://sound-project.firebaseapp.com/)
   * [Codebase](https://github.com/MatieuB/sound-project)
 
