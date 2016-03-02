@@ -41,6 +41,7 @@
   mf: Michael Ferger
 
   * Michael Homolak
+    * [Blackjack](http://mhomolak.github.io/BJ/)
     * [Codebase](https://github.com/mhomolak/BJ)
 
   mm: Michael Malotte
