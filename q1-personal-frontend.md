@@ -51,8 +51,8 @@
   mh: Michael Homolak
 
   * Michael Malotte
-    *[ Cash Register - Inventory Manager ]( https://project-test.herokuapp.com )
-    *[ Code ]( https://github.com/MickeyJ/personal-frontend-project/tree/refactor1 )
+    * [ Cash Register - Inventory Manager ]( https://project-test.herokuapp.com )
+    * [ Code ]( https://github.com/MickeyJ/personal-frontend-project/tree/refactor1 )
 
   nr: Nathan Reginato
 
