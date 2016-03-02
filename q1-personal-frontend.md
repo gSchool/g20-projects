@@ -59,7 +59,9 @@
     * [Blackjack](http://mhomolak.github.io/BJ/)
     * [Codebase](https://github.com/mhomolak/BJ)
 
-  mm: Michael Malotte
+  * Michael Malotte
+    * [ Cash Register - Inventory Manager ]( https://project-test.herokuapp.com )
+    * [ Code ]( https://github.com/MickeyJ/personal-frontend-project/tree/refactor1 )
 
   nr: Nathan Reginato
 
