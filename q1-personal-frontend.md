@@ -28,9 +28,9 @@
 
   jf: James Freeman
 
-  *Jason Goldfarb
-    *[Simon]on it's way
-    [Codebase](https://github.com/jkgold/personal-project.github.io/tree/gh-pages)
+  * Jason Goldfarb
+    * [Simon](on it's way)
+    * [Codebase](https://github.com/jkgold/personal-project.github.io/tree/gh-pages)
   
 
   ld: Lincoln Dennis
