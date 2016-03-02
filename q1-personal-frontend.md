@@ -39,6 +39,9 @@
   mp: Madeline Pickering
 
   mb: Matthew Bouchard
+  * https://sound-project.firebaseapp.com/
+  * https://github.com/MatieuB/sound-project
+
 
   ms: Max Sturges
 
