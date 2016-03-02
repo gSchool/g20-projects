@@ -64,4 +64,6 @@
     * [space invaders](https://spaceinvadersjs.firebaseapp.com/)
     * [Codebase](https://github.com/summerwollin/spaceInvadersProject)
 
-  wf: William Fuger
+  * William Fuger
+    * [Blackjack](https://wfuger.github.io/blackjack.github.io/)
+    * [Codebase](https://github.com/Wfuger/blackjack.github.io)
