@@ -58,7 +58,9 @@
 
   sg: San Ibrahim Guyer
 
-  sl: Seth Lytton
+  * Seth Lytton
+    * [Meal Magnet](https://meal-magnet.firebaseapp.com/)
+    * [Codebase](https://github.com/slytton/meal-planner)
 
   * Summer Wollin
     * [space invaders](https://spaceinvadersjs.firebaseapp.com/)
