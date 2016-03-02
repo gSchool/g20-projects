@@ -48,7 +48,9 @@
     * [Space Bounce](http://mferger.github.io/MichaelFerger.github.io/)
     * [Codebase](https://github.com/MFerger/MichaelFerger.github.io)
 
-  mh: Michael Homolak
+  * Michael Homolak
+    * [Blackjack](http://mhomolak.github.io/BJ/)
+    * [Codebase](https://github.com/mhomolak/BJ)
 
   mm: Michael Malotte
 
