@@ -65,7 +65,10 @@
 
   nr: Nathan Reginato
 
-  nm: Nicholas MacIntyre
+  * Nicholas MacIntyre
+    * [Asteroids] (https://astroidz.firebaseapp.com/)
+    * [code] (https://github.com/nickmac23/astroid)
+
 
   * Philip Skaggs
     * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
