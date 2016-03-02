@@ -38,7 +38,9 @@
     * [This Week In Marvel History](http://jlincolndennis.github.io/marvel-history.github.io/)
     * [Codebase](https://github.com/jlincolndennis/marvel-history)
 
-  mp: Madeline Pickering
+  * Madeline Pickering
+    * [FuelMapper](http://madelinepick.github.io/fuelmapper.github.io/)
+    * [Codebase](https://github.com/madelinepick/fuelmapper.github.io)
 
   mb: Matthew Bouchard
 
