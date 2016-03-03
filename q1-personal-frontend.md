@@ -26,7 +26,7 @@
 
   hf: Harrison Fischberg
 
-  jf: James Freeman:   
+  * James Freeman 
     * [MagicTheGathering](https://jhf13pp.firebaseapp.com/)
     * [Codebase](https://github.com/FreemanJamesH/personalProject)
 
