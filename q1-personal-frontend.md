@@ -7,6 +7,7 @@
   * Anthony Simpson
     * [Space Logger] (comingSoon)
     * [Codebase] (https://github.com/ansi6622/spaceLogger.git)
+
   * Blake Netzeband
     * [State of Solar](http://blakeface.github.io/state-of-solar.github.io/)
     * [Codebase](https://github.com/blakeface/state-of-solar.github.io)
@@ -26,6 +27,7 @@
   * Conrad Bailey
       * coming soon
       * [Codebase](https://github.com/CGBailey/realSheet.git)
+
   * Cooper Heinrichs
     * [Car Contact](https://carcontact.herokuapp.com/)
     * [Codebase](https://github.com/cheinrichs/carContact)
@@ -50,7 +52,6 @@
     * [Simon](on it's way)
     * [Codebase](https://github.com/jkgold/personal-project.github.io/tree/gh-pages)
 
-
   * Lincoln Dennis
     * [This Week In Marvel History](http://jlincolndennis.github.io/marvel-history.github.io/)
     * [Codebase](https://github.com/jlincolndennis/marvel-history)
@@ -63,11 +64,9 @@
     * [Local Sounds -Search and Sample musicians Playing in your area](https://sound-project.firebaseapp.com/)
     * [Codebase](https://github.com/MatieuB/sound-project)
 
-
   * Max Sturges
     * [Climb Further](on it's way)
     * [codebase](https://github.com/MSturges/climbFurther)
-
 
   * Michael Ferger
     * [Space Bounce](http://mferger.github.io/MichaelFerger.github.io/)
@@ -88,7 +87,6 @@
   * Nicholas MacIntyre
     * [Asteroids] (https://astroidz.firebaseapp.com/)
     * [code] (https://github.com/nickmac23/astroid)
-
 
   * Philip Skaggs
     * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
