@@ -4,8 +4,9 @@
     * [Reincarnation] (https://reincarnation.herokuapp.com/)
     * [Codebase] (https://github.com/alancarltaylor/reincarnation)
 
-  as: Anthony Simpson
-
+  * Anthony Simpson
+    * [Space Logger] (comingSoon)
+    * [Codebase] (https://github.com/ansi6622/spaceLogger.git)
   * Blake Netzeband
     * [State of Solar](http://blakeface.github.io/state-of-solar.github.io/)
     * [Codebase](https://github.com/blakeface/state-of-solar.github.io)
