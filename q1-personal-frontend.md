@@ -3,6 +3,7 @@
   * Alan Taylor
     * [Reincarnation] (https://reincarnation.herokuapp.com/)
     * [Codebase] (https://github.com/alancarltaylor/reincarnation)
+
   as: Anthony Simpson
 
   * Blake Netzeband
@@ -38,7 +39,7 @@
     * [ShapeShift Bitcoin Platform](https://shape.firebaseapp.com/)
     * [CodeBase](https://github.com/hrfischberg/ShapeShifts)
 
-  * James Freeman 
+  * James Freeman
     * [MagicTheGathering](https://jhf13pp.firebaseapp.com/)
     * [Codebase](https://github.com/FreemanJamesH/personalProject)
 
