@@ -10,9 +10,9 @@
     * [pick-A-resort](http://butters5789.github.io/pickaresort.github.io/)
     * [Codebase](https://github.com/butters5789/pickaresort.github.io)
 
-  ba: Bud Aminof
-    * [find music events next to you] (https://evenysandmaps.firebaseapp.com/)
-    * [Codebase] (https://github.com/budaminof/personal-project)
+  * Bud Aminof
+    * [find music events next to you](https://evenysandmaps.firebaseapp.com/)
+    * [Codebase](https://github.com/budaminof/personal-project)
 
   ck: Coleman Kelleghan
 
