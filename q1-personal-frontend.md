@@ -1,12 +1,12 @@
 # Q1 Personal
 
   * Alan Taylor
-    * [Reincarnation] (https://reincarnation.herokuapp.com/)
-    * [Codebase] (https://github.com/alancarltaylor/reincarnation)
+    * [Reincarnation](https://reincarnation.herokuapp.com/)
+    * [Codebase](https://github.com/alancarltaylor/reincarnation)
 
   * Anthony Simpson
-    * [Space Logger] (comingSoon)
-    * [Codebase] (https://github.com/ansi6622/spaceLogger.git)
+    * [Space Logger](comingSoon)
+    * [Codebase](https://github.com/ansi6622/spaceLogger.git)
 
   * Blake Netzeband
     * [State of Solar](http://blakeface.github.io/state-of-solar.github.io/)
@@ -25,8 +25,8 @@
     * [Codebase](https://github.com/kelleghan1/g20-projects)
 
   * Conrad Bailey
-      * coming soon
-      * [Codebase](https://github.com/CGBailey/realSheet.git)
+    * coming soon
+    * [Codebase](https://github.com/CGBailey/realSheet.git)
 
   * Cooper Heinrichs
     * [Car Contact](https://carcontact.herokuapp.com/)
@@ -85,8 +85,8 @@
     * [Codebase](https://github.com/NathanReginato/Set)
 
   * Nicholas MacIntyre
-    * [Asteroids] (https://astroidz.firebaseapp.com/)
-    * [code] (https://github.com/nickmac23/astroid)
+    * [Asteroids](https://astroidz.firebaseapp.com/)
+    * [code](https://github.com/nickmac23/astroid)
 
   * Philip Skaggs
     * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
