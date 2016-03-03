@@ -1,7 +1,8 @@
 # Q1 Personal
 
-  at: Alan Taylor
-
+  * Alan Taylor
+    * [Reincarnation] (https://reincarnation.herokuapp.com/)
+    * [Codebase] (https://github.com/alancarltaylor/reincarnation)
   as: Anthony Simpson
 
   * Blake Netzeband
@@ -14,15 +15,20 @@
 
   ba: Bud Aminof
 
-  ck: Coleman Kelleghan
+  * Coleman Kelleghan
+    * [Geoball](http://kelleghan1.github.io/mySite.github.io/)
+    * [Codebase](https://github.com/kelleghan1/g20-projects)
 
-  cb: Conrad Bailey
-
+  * Conrad Bailey
+      * coming soon
+      * [Codebase](https://github.com/CGBailey/realSheet.git)
   * Cooper Heinrichs
     * Link coming soon!
     * [Codebase](https://github.com/cheinrichs/carContact)
 
-  cm: Courtney Morrissey
+  * Courtney Morrissey
+    * Link coming soon!
+    * [Codebase](https://github.com/courtm187/q1project_hikeGenerator)
 
   * Daniel Stewart
     * [Speed candiDating](http://d-stew.github.io/personal-project-q1/)
@@ -36,7 +42,10 @@
     * [MagicTheGathering](https://jhf13pp.firebaseapp.com/)
     * [Codebase](https://github.com/FreemanJamesH/personalProject)
 
-  jg: Jason Goldfarb
+  * Jason Goldfarb
+    * [Simon](on it's way)
+    * [Codebase](https://github.com/jkgold/personal-project.github.io/tree/gh-pages)
+
 
   * Lincoln Dennis
     * [This Week In Marvel History](http://jlincolndennis.github.io/marvel-history.github.io/)
@@ -51,7 +60,10 @@
     * [Codebase](https://github.com/MatieuB/sound-project)
 
 
-  ms: Max Sturges
+  * Max Sturges
+    * [Climb Further](on it's way)
+    * [codebase](https://github.com/MSturges/climbFurther)
+
 
   * Michael Ferger
     * [Space Bounce](http://mferger.github.io/MichaelFerger.github.io/)
@@ -61,11 +73,18 @@
     * [Blackjack](http://mhomolak.github.io/BJ/)
     * [Codebase](https://github.com/mhomolak/BJ)
 
-  mm: Michael Malotte
+  * Michael Malotte
+    * [ Cash Register - Inventory Manager ]( https://project-test.herokuapp.com )
+    * [ Code ]( https://github.com/MickeyJ/personal-frontend-project/tree/refactor1 )
 
-  nr: Nathan Reginato
+  * Nathan Reginato
+    * [Set](http://myappsetgame.s3-website-us-west-2.amazonaws.com/)
+    * [Codebase](https://github.com/NathanReginato/Set)
 
-  nm: Nicholas MacIntyre
+  * Nicholas MacIntyre
+    * [Asteroids] (https://astroidz.firebaseapp.com/)
+    * [code] (https://github.com/nickmac23/astroid)
+
 
   * Philip Skaggs
     * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
