@@ -43,7 +43,7 @@
   * Jason Goldfarb
     * [Simon](on it's way)
     * [Codebase](https://github.com/jkgold/personal-project.github.io/tree/gh-pages)
-  
+
 
   * Lincoln Dennis
     * [This Week In Marvel History](http://jlincolndennis.github.io/marvel-history.github.io/)
@@ -58,7 +58,10 @@
     * [Codebase](https://github.com/MatieuB/sound-project)
 
 
-  ms: Max Sturges
+  * Max Sturges
+    * [Climb Further](on it's way)
+    * [codebase](https://github.com/MSturges/climbFurther)
+
 
   * Michael Ferger
     * [Space Bounce](http://mferger.github.io/MichaelFerger.github.io/)
