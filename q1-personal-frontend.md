@@ -32,7 +32,9 @@
     * [ShapeShift Bitcoin Platform](https://shape.firebaseapp.com/)
     * [CodeBase](https://github.com/hrfischberg/ShapeShifts)
 
-  jf: James Freeman
+  * James Freeman 
+    * [MagicTheGathering](https://jhf13pp.firebaseapp.com/)
+    * [Codebase](https://github.com/FreemanJamesH/personalProject)
 
   jg: Jason Goldfarb
 
