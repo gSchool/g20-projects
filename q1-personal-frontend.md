@@ -24,7 +24,7 @@
       * coming soon
       * [Codebase](https://github.com/CGBailey/realSheet.git)
   * Cooper Heinrichs
-    * Link coming soon!
+    * [Car Contact](https://carcontact.herokuapp.com/)
     * [Codebase](https://github.com/cheinrichs/carContact)
 
   * Courtney Morrissey
