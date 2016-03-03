@@ -14,7 +14,9 @@
     * [pick-A-resort](http://pick-a-resort.herokuapp.com/)
     * [Codebase](https://github.com/butters5789/pickaresort)
 
-  ba: Bud Aminof
+  * Bud Aminof
+    * [find music events next to you](https://evenysandmaps.firebaseapp.com/)
+    * [Codebase](https://github.com/budaminof/personal-project)
 
   * Coleman Kelleghan
     * [Geoball](http://kelleghan1.github.io/mySite.github.io/)
