@@ -33,9 +33,9 @@
   * Madeline Pickering
     * FuelMapper - http://madelinepick.github.io/fuelmapper.github.io/
   *  Matthew Bouchard
-    * Local Sounds -Search and Sample musicians Playing in your area - https://sound-project.firebaseapp.com/
+    * Local Sounds - Search and Sample musicians Playing in your area - https://sound-project.firebaseapp.com/
   * Max Sturges
-    * Climb Further - on it's way
+    * Climb Further - http://msturges.github.io/climbFurther/
   * Michael Ferger
     * Space Bounce - http://mferger.github.io/MichaelFerger.github.io/
   * BREAK
