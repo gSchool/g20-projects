@@ -17,7 +17,7 @@
     * [Codebase](https://github.com/butters5789/pickaresort)
 
   * Bud Aminof
-    * [find music events next to you](https://evenysandmaps.firebaseapp.com/)
+    * [find music events next to you](https://eventsandmaps.firebaseapp.com/)
     * [Codebase](https://github.com/budaminof/personal-project)
 
   * Coleman Kelleghan
