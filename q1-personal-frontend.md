@@ -65,7 +65,7 @@
     * [Codebase](https://github.com/MatieuB/sound-project)
 
   * Max Sturges
-    * [Climb Further](on it's way)
+    * [Climb Further](http://msturges.github.io/climbFurther/)
     * [codebase](https://github.com/MSturges/climbFurther)
 
   * Michael Ferger
