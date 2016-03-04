@@ -59,7 +59,7 @@
 
 
   * Max Sturges
-    * [Climb Further](on it's way)
+    * [Climb Further](http://msturges.github.io/climbFurther/)
     * [codebase](https://github.com/MSturges/climbFurther)
 
 
