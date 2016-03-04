@@ -92,7 +92,9 @@
     * [Dolphin Kiss](http://artnoisenik.github.io/dolphin-kiss.github.io/)
     * [Codebase](https://github.com/artnoisenik/dolphin-kiss.github.io)
 
-  sg: San Ibrahim Guyer
+  * San Ibrahim Guyer
+    * [damla memory game] (damla.com.s3-website-us-west-2.amazonaws.com)
+    * [codebase] (https://github.com/ibo303/project1.git)
 
   * Seth Lytton
     * [Meal Magnet](https://meal-magnet.firebaseapp.com/)
