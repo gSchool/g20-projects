@@ -1,6 +1,7 @@
 # G20 Projects
 
 * Q1 - [Personal Frontend Projects](./q1-personal-frontend.md)
+* Q2 - [April Fools Hackathon](./q1-fools-hackathong.md)
 
 ### How to update your project's URL
 
