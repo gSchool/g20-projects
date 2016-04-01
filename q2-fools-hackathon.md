@@ -11,7 +11,8 @@
 * Nic, Seth
 
 * Blake, Phil, Alan, Mike H
-  *[Codebase] https://github.com/blakeface/fablibs
+  *[Codebase] (https://github.com/blakeface/fablibs)
+
 * Harrison Fischberg, Michael Malotte, James Freeman, Will Fuger
 
 * Michael Ferger, Lincoln Dennis, Conrad Bailey, Summer Wollin
