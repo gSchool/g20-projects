@@ -9,7 +9,7 @@
 * Find your name and edit that line like follows:
 
   ```md
-  * Your name
+  * Your name(s)
     * [name of project](url)
     * [Codebase](github repo url)
   ```
