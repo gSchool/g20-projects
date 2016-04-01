@@ -1,6 +1,8 @@
 # Q2 April Fool's Hackathon
 
 * Madeline
+  * [Language Visualizer (coming soon)](url)
+  * [Codebase](https://github.com/madelinepick/q2-hackathon/tree/bubblechart)
 
 * Anthony, Max, San, Coleman
 
