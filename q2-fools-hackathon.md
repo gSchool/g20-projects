@@ -7,6 +7,8 @@
 * Nate, Cooper, Courtney, Brad
 
 * Bud, Daniel, Matthew
+    * [GearSwap] (url)
+    * [Codebase](https://github.com/budaminof/g20-hackathon)
 
 * Nic, Seth
 
