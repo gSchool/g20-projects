@@ -13,6 +13,7 @@
 * Nic, Seth
 
 * Blake, Phil, Alan, Mike H
+  *[Codebase] (https://github.com/blakeface/fablibs)
 
 * Harrison Fischberg, Michael Malotte, James Freeman, Will Fuger
 
