@@ -2,6 +2,7 @@
 
 * Q1 - [Personal Frontend Projects](./q1-personal-frontend.md)
 * Q2 - [April Fools Hackathon](./q2-fools-hackathon.md)
+* Q2 - [Group Project](./q2-group-project.md)
 
 ### How to update your project's URL
 
