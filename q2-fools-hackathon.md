@@ -5,6 +5,8 @@
   * [Codebase](https://github.com/madelinepick/q2-hackathon/tree/bubblechart)
 
 * Anthony, Max, San, Coleman
+  * [gAppFactory (will be updated with full CRUDL)](https://gappfactory.herokuapp.com/)
+  * [Codebase](https://github.com/kelleghan1/gAppFactory.git)
 
 * Nate, Cooper, Courtney, Brad
 
