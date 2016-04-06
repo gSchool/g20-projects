@@ -17,6 +17,8 @@
     * [Codebase](https://github.com/budaminof/g20-hackathon)
 
 * Nic, Seth
+    * https://hackathon-socket-express.herokuapp.com/
+    * https://github.com/nickmac23/socketExpress
 
 * Blake, Phil, Alan, Mike H
     * [Codebase](https://github.com/blakeface/fablibs)
