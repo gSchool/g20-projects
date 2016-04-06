@@ -9,6 +9,8 @@
   * [Codebase](https://github.com/kelleghan1/gAppFactory.git)
 
 * Nate, Cooper, Courtney, Brad
+  * [Taco-Valet](https://taco-valet.herokuapp.com/)
+  * [Codebase](https://github.com/butters5789/Taco-Valet)
 
 * Bud, Daniel, Matthew
     * [GearSwap] (url)
