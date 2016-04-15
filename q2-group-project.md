@@ -1,6 +1,8 @@
 # Q2 Group Project
 
 * Bud, Matthew, Daniel
+* [GNOSH.com]('http://gnosh.herokuapp.com')
+* [Codebase]('https://github.com/budaminof/snack_Basket')
 
 * Alan, Madeline, Max, Nathan
 
