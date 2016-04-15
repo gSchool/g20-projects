@@ -1,23 +1,23 @@
 # Q2 Group Project
 
 * Bud, Matthew, Daniel
- * [GNOSH.com](http://gnosh.herokuapp.com)
- * [Codebase](https://github.com/budaminof/snack_Basket)
+  * [GNOSH.com](http://gnosh.herokuapp.com)
+  * [Codebase](https://github.com/budaminof/snack_Basket)
 
 * Alan Taylor, Max Sturges, Nate Reginato, Madeline Pickering
   * [Caretakr](https://caretakr.herokuapp.com/)
   * [Codebase](https://github.com/madelinepick/caretakr)
 
 * Anthony, Courtney, James, Mike H
- * [Stack Overflows](https://slackoverflows.herokuapp.com/)
+  * [Slack Overflow](https://slackoverflows.herokuapp.com/)
 
 * Blake, Lincoln, Nick, Summer
   * [Whereabouts](https://where-a-bouts.herokuapp.com/)
   * [Codebase](https://github.com/blakeface/group-map-project)
 
 * Brad, Mike F, Phil, Cooper
- * [milkdrop](http://milkdrop.herokuapp.com/)
- * [Codebase](https://github.com/butters5789/Q2-group-project)
+  * [milkdrop](http://milkdrop.herokuapp.com/)
+  * [Codebase](https://github.com/butters5789/Q2-group-project)
 
 * Seth, Coleman, Conrad, Will
   * [Flight-Switch](https://flight-switch-store.herokuapp.com/shirts)
