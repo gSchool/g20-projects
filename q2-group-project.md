@@ -1,8 +1,8 @@
 # Q2 Group Project
 
 * Bud, Matthew, Daniel
- * [GNOSH.com]('http://gnosh.herokuapp.com')
- * [Codebase]('https://github.com/budaminof/snack_Basket')
+ * [GNOSH.com](http://gnosh.herokuapp.com)
+ * [Codebase](https://github.com/budaminof/snack_Basket)
 
 * Alan Taylor, Max Sturges, Nate Reginato, Madeline Pickering
   * [Caretakr](https://caretakr.herokuapp.com/)
