@@ -1,7 +1,9 @@
 # Q2 Group Project
 
 * Bud, Matthew, Daniel
-*
+ * [GNOSH.com]('http://gnosh.herokuapp.com')
+ * [Codebase]('https://github.com/budaminof/snack_Basket')
+
 * Alan Taylor, Max Sturges, Nate Reginato, Madeline Pickering
   * [Caretakr](https://caretakr.herokuapp.com/)
   * [Codebase](https://github.com/madelinepick/caretakr)
@@ -13,8 +15,11 @@
   * [Codebase](https://github.com/blakeface/group-map-project)
 
 * Brad, Mike F, Phil, Cooper
+ * [milkdrop](http://milkdrop.herokuapp.com/)
+ * [Codebase](https://github.com/butters5789/Q2-group-project)
 
 * Seth, Coleman, Conrad, Will
   * [Flight-Switch](https://flight-switch-store.herokuapp.com/shirts)
-  * [Flight-Switch](https://github.com/slytton/flight-switch-store)
+  * [Codebase](https://github.com/slytton/flight-switch-store)
+
 * Harrison, Mickey, San, Jason
