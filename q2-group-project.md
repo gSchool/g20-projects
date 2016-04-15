@@ -10,6 +10,7 @@
 
 * Anthony, Courtney, James, Mike H
   * [Slack Overflow](https://slackoverflows.herokuapp.com/)
+  * [Codebase](https://github.com/FreemanJamesH/SlackOverflow)
 
 * Blake, Lincoln, Nick, Summer
   * [Whereabouts](https://where-a-bouts.herokuapp.com/)
@@ -24,3 +25,6 @@
   * [Codebase](https://github.com/slytton/flight-switch-store)
 
 * Harrison, Mickey, San, Jason
+  * [Fruite](http://q2-client.herokuapp.com/)
+  * [Codebase](https://github.com/MickeyJ/Q2-Final-Client)
+  * [Codebase Angular](https://github.com/MickeyJ/Q2-Group-Server) 
