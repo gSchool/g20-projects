@@ -1,5 +1,7 @@
 # Q2 Group Project
 
+* Bud, Matthew, Daniel
+
 * Alan, Madeline, Max, Nathan
 
 * Anthony, Courtney, James, Mike H
@@ -11,5 +13,3 @@
 * Seth, Coleman, Conrad, Will
 
 * Harrison, Mickey, San, Jason
-
-* Bud, Matthew, Daniel
