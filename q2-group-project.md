@@ -9,6 +9,8 @@
 * Anthony, Courtney, James, Mike H
 
 * Blake, Lincoln, Nick, Summer
+  * [Whereabouts](https://where-a-bouts.herokuapp.com/)
+  * [Codebase](https://github.com/blakeface/group-map-project)
 
 * Brad, Mike F, Phil, Cooper
 
