@@ -9,6 +9,7 @@
   * [Codebase](https://github.com/madelinepick/caretakr)
 
 * Anthony, Courtney, James, Mike H
+ * [Stack Overflows](https://slackoverflows.herokuapp.com/)
 
 * Blake, Lincoln, Nick, Summer
   * [Whereabouts](https://where-a-bouts.herokuapp.com/)
