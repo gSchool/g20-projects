@@ -20,6 +20,10 @@
   * [milkdrop](http://milkdrop.herokuapp.com/)
   * [Codebase](https://github.com/butters5789/Q2-group-project)
 
+* Brad, Mike F, Phil, Cooper
+  * [MilkDrop](http://milkdrop.herokuapp.com/)
+  * [Codebase](https://github.com/butters5789/Q2-group-project)
+
 * Seth, Coleman, Conrad, Will
   * [Flight-Switch](https://flight-switch-store.herokuapp.com/shirts)
   * [Codebase](https://github.com/slytton/flight-switch-store)
