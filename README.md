@@ -4,6 +4,7 @@
 * Q2 - [April Fools Hackathon](./q2-fools-hackathon.md)
 * Q2 - [Group Project](./q2-group-project.md)
 * Q3 - [Copper and Jeans Hackathon](./q3-copper-and-jeans-hackathon.md)
+* Q3 - [Group Project](./q3-group-project.md)
 
 ### How to update your project's URL
 
