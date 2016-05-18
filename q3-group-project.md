@@ -1,4 +1,4 @@
-# Q3 Copper & Jeans Hackathon
+# Q3 Group Project
 
 * Bradley Butterfield, San ibrahim Guyer, Summer Wollin, Philip Skaggs
   * deployed site
