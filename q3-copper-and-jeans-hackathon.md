@@ -16,7 +16,7 @@
   * deployed site
   * github link
 
-* Keith Baeten, Jory Garrido, Bradley Butterfield, Bud Aminof, Daniel Stewart, Conrad Bailey
+* Keith Baeten, Jory Garrido, Bradley Butterfield, Max Sturges, Daniel Stewart, Conrad Bailey
   * deployed site
   * github link
 
@@ -28,6 +28,6 @@
   * deployed site
   * github link
 
-* Michael Ferger, Seth Lytton, William Fuger, James Freeman, Max Sturges, Robert Kurtz
+* Michael Ferger, Seth Lytton, William Fuger, James Freeman, Bud Aminof, Robert Kurtz
   * deployed site
   * github link
