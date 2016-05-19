@@ -1,6 +1,6 @@
 # Q3 Copper & Jeans Hackathon
 
-* Blake Netzeband, Andrew West, Alan Taylor, San Ibrahim Guyer, Michael Homolak, Ryan Kane
+* Andrew West, Alan Taylor, San Ibrahim Guyer, Michael Homolak, Ryan Kane
   * deployed site
   * github link
 
@@ -12,15 +12,15 @@
   * deployed site
   * github link
 
-* Joshua Newsom, Coleman Kelleghan, Conor Kingston, Madeline Pickering
+* Joshua Newsom, Conor Kingston, Madeline Pickering
   * deployed site
   * github link
 
-* Keith Baeten, Jory Garrido, Bradley Butterfield, Max Sturges, Daniel Stewart, Conrad Bailey
+* Keith Baeten, Jory Garrido, Bradley Butterfield, Daniel Stewart, Conrad Bailey
   * deployed site
   * github link
 
-* Kirsten Wedde, Samuel Cate, Anthony Simpson, Matthew Bouchard, Philip Skaggs
+* Samuel Cate, Anthony Simpson, Matthew Bouchard, Philip Skaggs
   * deployed site
   * github link
 
