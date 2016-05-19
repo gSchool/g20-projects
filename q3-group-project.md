@@ -1,25 +1,25 @@
 # Q3 Group Project
 
-* Bradley Butterfield, San ibrahim Guyer, Summer Wollin, Philip Skaggs
+* group members
   * deployed site
   * github link
 
-* William Fuger, Nicholas MacIntyre, James Freeman, Max Sturges
+* group members
   * deployed site
   * github link
 
-* Michael Malotte, Blake Netzeband, Conrad Bailey, Anthony Simpson
+* group members
   * deployed site
   * github link
 
-* Bud Aminof, Seth Lytton, Nathan Reginato, Lincoln Dennis
+* group members
   * deployed site
   * github link
 
-* Alan Taylor, Daniel Stewart, Matthew Bouchard, Michael Homolak
+* group members
   * deployed site
   * github link
 
-* Cooper Heinrichs, Michael Ferger, Madeline Pickering, Coleman Kelleghan, Courtney Morrissey
+* group members
   * deployed site
   * github link
