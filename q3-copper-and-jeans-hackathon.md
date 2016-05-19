@@ -1,6 +1,6 @@
 # Q3 Copper & Jeans Hackathon
 
-* Andrew West, Alan Taylor, San Ibrahim Guyer, Michael Homolak, Ryan Kane
+* Andrew West, Alan Taylor, San Ibrahim Guyer, Michael Homolak
   * deployed site
   * github link
 
@@ -12,7 +12,7 @@
   * deployed site
   * github link
 
-* Joshua Newsom, Conor Kingston, Madeline Pickering
+* Joshua Newsom, Conor Kingston, Madeline Pickering, Ryan Kane
   * deployed site
   * github link
 
