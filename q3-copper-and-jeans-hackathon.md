@@ -5,8 +5,8 @@
   * [Codebase](https://github.com/mhomolak/Trumpytrump)
 
 * Elizabeth Szoke, Brendan Haskins, Summer Wollin, Cooper Heinrichs
-  * deployed site
-  * github link
+  * [Tetris For Tots](https://tetrisfortots.firebaseapp.com/#/)
+  * [Codebase](https://github.com/cheinrichs/tetrisForTots)
 
 * Ian Strouse, Jeffrey Medders, Courtney Morrissey, Sean Murray, Michael Malotte, Nicholas MacIntyre
   * deployed site
