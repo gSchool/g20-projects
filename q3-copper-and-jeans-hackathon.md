@@ -20,7 +20,7 @@
   * deployed site
   * github link
 
-* Samuel Cate, Anthony Simpson, Matthew Bouchard, Philip Skaggs
+* Samuel Cate, Anthony Simpson, Philip Skaggs
   * deployed site
   * github link
 
