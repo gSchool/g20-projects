@@ -25,8 +25,9 @@
   * [Codebase](https://github.com/artnoisenik/twitter-placeholder)
 
 * Lincoln Dennis, Nathan Reginato, Nathan Musselman, Paul Dziemianowicz
-  * deployed site
-  * github link
+  * [Yoda MTV Raps](http://yodamtvraps.herokuapp.com/)
+  * [Yoda's Twitter Account](http://www.twitter.com/yodamtvraps/)
+  * [Codebase](https://github.com/jlincolndennis/yodamtvraps/)
 
 * Michael Ferger, Seth Lytton, William Fuger, James Freeman, Bud Aminof, Robert Kurtz
   * deployed site
