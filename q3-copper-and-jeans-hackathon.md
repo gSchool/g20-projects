@@ -30,5 +30,5 @@
   * [Codebase](https://github.com/jlincolndennis/yodamtvraps/)
 
 * Michael Ferger, Seth Lytton, William Fuger, James Freeman, Bud Aminof, Robert Kurtz
-  * deployed site
-  * github link
+  * [DevTime](https://dev-time-hackathon.herokuapp.com/)
+  * [Codebase](https://github.com/MFerger/DevTime)
