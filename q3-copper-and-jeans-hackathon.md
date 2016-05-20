@@ -16,7 +16,7 @@
   * deployed site
   * github link
 
-* Keith Baeten, Jory Garrido, Bradley Butterfield, Daniel Stewart, Conrad Bailey
+* Keith Baeten, Jory Garrido, Bradley Butterfield, Conrad Bailey
   * deployed site
   * github link
 
