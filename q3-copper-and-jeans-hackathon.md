@@ -1,8 +1,8 @@
 # Q3 Copper & Jeans Hackathon
 
 * Andrew West, Alan Taylor, San Ibrahim Guyer, Michael Homolak
-  * deployed site
-  * github link
+  * [TrumpyTrump](https://trumpytrump.firebaseapp.com/)
+  * [Codebase](https://github.com/mhomolak/Trumpytrump)
 
 * Elizabeth Szoke, Brendan Haskins, Summer Wollin, Cooper Heinrichs
   * deployed site
