@@ -13,8 +13,8 @@
   * github link
 
 * Joshua Newsom, Conor Kingston, Madeline Pickering, Ryan Kane
-  * deployed site
-  * github link
+  * [Hi Mom](https://hi-mom.herokuapp.com)
+  * [Codebase](https://github.com/bossjohnson/solarfun)
 
 * Keith Baeten, Jory Garrido, Conrad Bailey
   * [Inspire](https://inspiration-maker.herokuapp.com/)
