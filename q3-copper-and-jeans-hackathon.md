@@ -17,8 +17,8 @@
   * github link
 
 * Keith Baeten, Jory Garrido, Conrad Bailey
-  * deployed site
-  * github link
+  * [Inspire](https://inspiration-maker.herokuapp.com/)
+  * [Codebase](https://github.com/CGBailey/InspireExpress)
 
 * Samuel Cate, Anthony Simpson, Philip Skaggs
   * [Twitter Placeholder](https://fierce-thicket-91134.herokuapp.com/)
