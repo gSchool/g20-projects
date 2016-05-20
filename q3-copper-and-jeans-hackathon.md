@@ -21,8 +21,8 @@
   * github link
 
 * Samuel Cate, Anthony Simpson, Philip Skaggs
-  * deployed site
-  * github link
+  * [deployed site](https://fierce-thicket-91134.herokuapp.com/)
+  * [github link](https://github.com/artnoisenik/twitter-placeholder)
 
 * Lincoln Dennis, Nathan Reginato, Nathan Musselman, Paul Dziemianowicz
   * deployed site
