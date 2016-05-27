@@ -1,25 +1,25 @@
 # Q3 Group Project
 
 * Summer, Mike, Alan, Lincoln
-  * deployed site
-  * github link
+  * [name of project](url)
+  * [Codebase](github repo url)
 
 * Mike Homolak, Dan Stewart, Tony Simpson, Mickey Malotte
-  * deployed site
-  * github link
+  * [name of project](url)
+  * [Codebase](github repo url)
 
 * Nate, Cooper, Will, Bud, Nick, Seth
-  * deployed site
-  * github link
+  * [name of project](url)
+  * [Codebase](github repo url)
 
 * Madeline Pickering
-  * deployed site
-  * github link
+  * [name of project](url)
+  * [Codebase](github repo url)
 
 * blake, conrad, brad, phil, san, courtney
-  * deployed site
-  * github link
+  * [name of project](url)
+  * [Codebase](github repo url)
 
 * group members
-  * deployed site
-  * github link
+  * [name of project](url)
+  * [Codebase](github repo url)
