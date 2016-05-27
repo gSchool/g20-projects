@@ -1,22 +1,22 @@
 # Q3 Group Project
 
-* group members
+* Summer, Mike, Alan, Lincoln
   * deployed site
   * github link
 
-* group members
+* Mike Homolak, Dan Stewart, Tony Simpson, Mickey Malotte
   * deployed site
   * github link
 
-* group members
+* Nate, Cooper, Will, Bud, Nick, Seth
   * deployed site
   * github link
 
-* group members
+* Madeline Pickering
   * deployed site
   * github link
 
-* group members
+* blake, conrad, brad, phil, san, courtney
   * deployed site
   * github link
 
