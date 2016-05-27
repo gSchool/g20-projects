@@ -19,8 +19,7 @@
   * [Codebase](https://github.com/madelinepick/rosalind)
 
 * Max, Coleman, Matthew, James
-  * [name of project](url)
-  * [Codebase](github repo url)
+  * [Codebase](https://github.com/MSturges/YodelApp)
 
 * Courtney Morrissey, Bradley D. Butterfield, Philip Ray Skaggs Jr, Conrad Graham Bailey, Blake Netzeband, Şan Güyer
   * [Robot Xylophone](https://robot-xylophone.herokuapp.com/)
