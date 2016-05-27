@@ -20,6 +20,6 @@
   * [name of project](url)
   * [Codebase](github repo url)
 
-* blake, conrad, brad, phil, san, courtney
-  * [name of project](url)
-  * [Codebase](github repo url)
+* Courtney Morrissey, Bradley D. Butterfield, Philip Ray Skaggs Jr, Conrad Graham Bailey, Blake Netzeband, Şan Güyer
+  * [Robot Xylophone](https://robot-xylophone.herokuapp.com/)
+  * [Codebase](https://github.com/artnoisenik/bm-machine)
