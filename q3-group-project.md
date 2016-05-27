@@ -1,8 +1,10 @@
 # Q3 Group Project
 
 * Summer, Mike, Alan, Lincoln
-  * [name of project](url)
-  * [Codebase](github repo url)
+  * Codebases:
+   * https://github.com/summerwollin/bracket-maker
+   * https://github.com/MFerger/Bracket-Maker-FE
+   * https://github.com/MFerger/bracket-maker
 
 * Mike Homolak, Dan Stewart, Tony Simpson, Mickey Malotte
   * [name of project](url)
