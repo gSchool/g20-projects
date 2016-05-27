@@ -16,10 +16,10 @@
   * [Rosalind](https://rosalind-app.herokuapp.com/)
   * [Codebase](https://github.com/madelinepick/rosalind)
 
-* blake, conrad, brad, phil, san, courtney
+* Max, Coleman, Matthew, James
   * [name of project](url)
   * [Codebase](github repo url)
 
-* group members
+* blake, conrad, brad, phil, san, courtney
   * [name of project](url)
   * [Codebase](github repo url)
