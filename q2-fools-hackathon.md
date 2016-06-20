@@ -21,6 +21,7 @@
     * https://github.com/nickmac23/socketExpress
 
 * Blake, Phil, Alan, Mike H
+    * [FabLibs](https://fablibs.herokuapp.com/)
     * [Codebase](https://github.com/blakeface/fablibs)
 
 * Harrison Fischberg, Michael Malotte, James Freeman, Will Fuger

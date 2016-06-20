@@ -7,8 +7,10 @@
     * https://github.com/MFerger/bracket-maker
 
 * Mike Homolak, Dan Stewart, Tony Simpson, Mickey Malotte
-  * [name of project](url)
-  * [Codebase](github repo url)
+  * [EasySpeak](https://easy-speak.herokuapp.com/)
+  * Codebases
+    * https://github.com/MickeyJ/q3-react-starter
+    * https://github.com/ansi6622/speakerboxxapi
 
 * Nate, Cooper, Will, Bud, Nick, Seth
   * [name of project](url)
